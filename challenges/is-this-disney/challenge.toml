@@ -1,9 +1,0 @@
-slug = "is-this-disney"
-title = "Is this disney?"
-author = "Josh"
-value = 20
-description = "wait... so you're telling me shrek isn't disney??? thank goodness my shrek [pic](is_this_disney.zip) is HIDDEN"
-tags = [ "Forensic"]
-files = [ "is_this_disney.zip" ]
-flag = "flag{this_is_my_swamp}"
-enabled = false

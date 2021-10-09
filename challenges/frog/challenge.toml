@@ -1,9 +1,0 @@
-slug = "frog"
-title = "Frog"
-author = "Stephen"
-value = 10
-description = """This frog just ate all my bacon and now it won't shut up. I feel like it's trying to tell me [something important](frog.txt); could you help me figure it out? thanks! --Tiana"""
-tags = ["Cryptograph"]
-files = ["frog.txt"]
-flag = "flag{croak_ribbit}"
-enabled = false

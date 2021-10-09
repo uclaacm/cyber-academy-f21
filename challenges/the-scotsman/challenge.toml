@@ -1,9 +1,0 @@
-slug = "the-scotsman"
-title = "The Scotsman"
-author = "Steph"
-value = 10
-description = """Dinnae even git me stairted oan mah brothers, they wee rascals cannae lea a cake alone, ah cuid [rant](rant.jpeg) aboot it fur hours."""
-tags = ["Forensic"]
-files = ["rant.jpeg"]
-flag = "flag{sc0tt1sh_rag3}"
-enabled = false

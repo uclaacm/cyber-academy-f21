@@ -1,9 +1,0 @@
-slug = "genieus"
-title = "Genie-us"
-author = "Matt"
-value = 30
-description = """I rubbed this magical lamp and a blue guy came out and sang [this song](friend_like_ascii.txt) to me. He put emphasis on some really strange words, though. Can you make heads or tails of it?"""
-tags = ["Steganography"]
-files = ["friend_like_ascii.txt"]
-flag = "flag{r0bN_wi11i4m5_is_a_tr345ur3}"
-enabled = false

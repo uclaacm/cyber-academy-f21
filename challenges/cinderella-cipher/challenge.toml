@@ -1,9 +1,0 @@
-slug = "cinderella-cipher"
-title = "Cinderella Cipher"
-author = "Yufa"
-value = 10
-description = """Prince Charming lost his girl when the clock struck midnight, and he's been given one more chance to find his perfect fit. However, it's the 21st century, so instead of leaving a shoe Cinderella left her phone number scribbled on a [napkin](napkin.txt). The catch? For fear of her note falling into the wrong hands, she seems to have written it using some sort of secret code. The prince has offered a reward of 0.04 Bitcoin to decipher the message for him...can you figure it out before anyone else? (Enter the flag as 10 consecutive digits, with no dashes or parentheses.)"""
-tags = [ "Cryptograph" ]
-files = [ "napkin.txt" ]
-flag = "flag{5106734917}"
-enabled = false

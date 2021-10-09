@@ -1,9 +1,0 @@
-slug = "dns-records"
-title = "DNS Records"
-author = "Will"
-value = 10
-description = "There are some suspicious DNS records on acmcyber.com..."
-tags = ["Web"]
-files = []
-flag = "flag{digging_for_records}"
-enabled = false

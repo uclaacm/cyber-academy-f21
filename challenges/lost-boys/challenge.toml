@@ -1,9 +1,0 @@
-slug = "lost-boys"
-title = "Lost Boys"
-author = "Matt"
-value = 10
-description = """Peter Pan has lost his Lost Boys. Fortunately, Tinker Bell has written down their locations in this [file](lost_boys). However, Peter Pan seems to have lost the file extension too! Can you figure out what type of file this is and help Peter Pan find his Lost Boys?"""
-tags = ["Forensic"]
-files = ["lost_boys"]
-flag = "flag{n3vrr_l4nD}"
-enabled = false

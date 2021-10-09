@@ -1,9 +1,0 @@
-slug = "feedback-form"
-title = "Fall GM Feedback"
-author = "Josh"
-value = 5
-description = "Click [here](https://forms.gle/NqR4ymKMiH1AU1Hy6) for a fun time hehe"
-tags = [ "Feedback" ]
-files = []
-flag = "flag{running_is_not_a_sport}"
-enabled = false

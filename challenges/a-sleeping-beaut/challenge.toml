@@ -1,9 +1,0 @@
-slug = "a-sleeping-beaut"
-title = "A Sleeping Beaut"
-author = "Josh"
-value = 10
-description = "In a land, far far away, there lived a beautiful princess--Princess Josh. For the last 20 years, in the foreign land named San Jose, Princess Josh has been fast asleep. If not for his dear siblings that take gr8 care of him, he would be a goner forsure. Wait… who even are his siblings? I think they were called the 7 dwarfs…? or was it the sexy 6? 3 musketeers? I forget. In alphabetical order, what are the names of Josh’s siblings? (Each name separated by an underscore, all lowercase, alphabetical order) Hint: Google = besto friendo!!"
-tags = ["Social Engineering"]
-files = []
-flag = "flag{andrew_matthew}"
-enabled = false

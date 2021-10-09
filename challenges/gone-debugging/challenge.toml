@@ -1,9 +1,0 @@
-slug = "gone-debugging"
-title = "Gone Debugging"
-author = "Luke"
-value = 40
-description = """My friend asked if I'd like some lemonade and gave me [this](gonedebugging). Can you figure out what it means?"""
-tags = ["Reverse Engineering"]
-files = ["gonedebugging"]
-flag = "flag{y0U_w1Ll_n0t_h4V3_tH3_dr1nK}"
-enabled = false

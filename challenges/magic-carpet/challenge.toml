@@ -1,9 +1,0 @@
-slug = "magic-carpet"
-title = "Magic Carpet"
-author = "Jeffery"
-value = 30
-description = """Seems like Aladdin is trying to say something as he's zigzagging in the sky on his magic carpet! Let's see what he has [to say](song_lyrics.txt). Enter the flag in the form \"flag{answer_here}\" """
-tags = ["Cryptography"]
-files = ["song_lyrics.txt" ]
-flag = "flag{THR0UGHANENDLESSDIAM0NDSKY}"
-enabled = false
