@@ -1,0 +1,17 @@
+slug = "pokemon-team"
+title = "Pokemon Team"
+author = "defund"
+value = 60
+description = """Check out my overpowered [Pokemon team](http://acmcyber.com:10000/web6)!
+
+One of the directories on the web server looks like this:
+```
+- flag.txt
+- pokemon/
+    - furret.png
+    - furretfaster.gif
+```"""
+tags = ["web"]
+files = []
+flag = "flag{furret_f@$te$t}"
+enabled = true

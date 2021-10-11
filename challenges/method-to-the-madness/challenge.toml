@@ -1,0 +1,9 @@
+slug = "method-to-the-madness"
+title = "Method to the Madness"
+author = "defund"
+value = 50
+description = "What HTTP methods are allowed [here](http://acmcyber.com:10000/web5)?"
+tags = ["web"]
+files = []
+flag = "flag{cust0m_m3th0d5}"
+enabled = true

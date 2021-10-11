@@ -1,0 +1,9 @@
+slug = "north-korea"
+title = "North Korea"
+author = "defund"
+value = 40
+description = "This [webpage](http://acmcyber.com:10000/web4) is only available to citizens of North Korea. They seem to be using a common HTTP header to verify this."
+tags = ["web"]
+files = []
+flag = "flag{ryugyong_dong}"
+enabled = true

@@ -1,0 +1,9 @@
+slug = "cookies"
+title = "Cookies"
+author = "defund"
+value = 20
+description = "Trick [them](http://acmcyber.com:10000/web2) into thinking you're an admin."
+tags = ["web"]
+files = []
+flag = "flag{c00k13}"
+enabled = true

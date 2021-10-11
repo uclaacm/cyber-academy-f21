@@ -1,0 +1,9 @@
+slug = "hidden-in-plain-site"
+title = "Hidden in Plain Sight"
+author = "defund"
+value = 10
+description = "What do you mean the flag isn't [there](http://acmcyber.com:10000/web1)?"
+tags = ["web"]
+files = []
+flag = "flag{here_all_along}"
+enabled = true

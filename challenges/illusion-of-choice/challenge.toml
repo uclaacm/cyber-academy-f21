@@ -1,0 +1,9 @@
+slug = "illusion-of-choice"
+title = "Illusion of Choice"
+author = "defund"
+value = 30
+description = "I can't click on this button [here](http://acmcyber.com:10000/web3)!"
+tags = ["web"]
+files = []
+flag = "flag{but_it_was_disabled}"
+enabled = true
