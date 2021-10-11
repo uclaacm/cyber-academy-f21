@@ -1,0 +1,9 @@
+slug = "cookie-bar"
+title = "Cookie Bar"
+author = "Matt"
+value = 5
+description = """Boy I'm hungry. I could really go for some [cookies](https://cyber-web-hacking-challenges.herokuapp.com/cookie_bar/) right now."""
+tags = ["Intro"]
+files = []
+flag = "flag{m&m_choc0late_ch1p_c00kies}"
+enabled = true
