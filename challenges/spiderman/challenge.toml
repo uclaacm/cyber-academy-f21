@@ -1,0 +1,9 @@
+slug = "spiderman"
+title = "Sipderman"
+author = "Matt"
+value = 20
+description = """Spiderman likes swinging on webs. Personally, I prefer crawling.  https://cyber-web-hacking-challenges.herokuapp.com/spiderman/"""
+tags = ["Intro"]
+files = []
+flag = "flag{w0rld_w1d3_w3b}"
+enabled = true

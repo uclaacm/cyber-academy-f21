@@ -1,0 +1,9 @@
+slug = "jones"
+title = "Jones"
+author = "Matt"
+value = 10
+description = """Indiana Jones sure has visited a lot of archaeological sites around the world. Take a look: https://cyber-web-hacking-challenges.herokuapp.com/jones/"""
+tags = ["Intro"]
+files = []
+flag = "flag{beating_a_dead_horse}"
+enabled = true

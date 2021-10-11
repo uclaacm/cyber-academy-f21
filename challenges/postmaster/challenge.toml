@@ -1,0 +1,9 @@
+slug = "postmaster"
+title = "Postmaster"
+author = "Matt"
+value = 15
+description = """Can you tell me what a post is used for? https://cyber-web-hacking-challenges.herokuapp.com/postmaster/"""
+tags = ["Intro"]
+files = []
+flag = "flag{you_might_call_yourself_POSTmaster_general}"
+enabled = true
