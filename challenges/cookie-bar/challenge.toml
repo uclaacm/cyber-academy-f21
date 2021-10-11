@@ -1,7 +1,7 @@
 slug = "cookie-bar"
 title = "Cookie Bar"
 author = "Matt"
-value = 5
+value = 10
 description = """Boy I'm hungry. I could really go for some [cookies](https://cyber-web-hacking-challenges.herokuapp.com/cookie_bar/) right now."""
 tags = ["Intro"]
 files = []

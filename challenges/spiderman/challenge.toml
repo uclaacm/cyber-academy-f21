@@ -1,7 +1,7 @@
 slug = "spiderman"
 title = "Spiderman"
 author = "Matt"
-value = 20
+value = 30
 description = """[Spiderman](https://cyber-web-hacking-challenges.herokuapp.com/spiderman/) likes swinging on webs. Personally, I prefer crawling."""
 tags = ["Intro"]
 files = []
