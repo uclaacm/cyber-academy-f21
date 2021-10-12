@@ -5,5 +5,5 @@ value = 10
 description = """Sometimes my code looks like spaghetti with all those [curly braces](https://cyber-web-hacking-challenges.herokuapp.com/spaghetti/)."""
 tags = ["Intro"]
 files = []
-flag = "flag{m&m_choc0late_ch1p_c00kies}"
+flag = "flag{de0bfu5c4t10n_n4t10n}"
 enabled = true
