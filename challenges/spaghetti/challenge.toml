@@ -1,0 +1,9 @@
+slug = "spaghetti"
+title = "Spaghetti"
+author = "Matt"
+value = 20
+description = """Sometimes my code looks like spaghetti with all those [curly braces](https://cyber-web-hacking-challenges.herokuapp.com/spaghetti/)."""
+tags = ["Intro"]
+files = []
+flag = "flag{de0bfu5c4t10n_n4t10n}"
+enabled = true

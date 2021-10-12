@@ -1,0 +1,9 @@
+slug = "social-insecurity"
+title = "Social Insecurity"
+author = "Matt"
+value = 20
+description = """Click [here](https://cyber-web-hacking-challenges.herokuapp.com/spaghetti/) to get your new Social Security Number!"""
+tags = ["Intro"]
+files = []
+flag = "flag{its_just_a_random_number}"
+enabled = true
