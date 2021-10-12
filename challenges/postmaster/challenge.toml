@@ -1,7 +1,7 @@
 slug = "postmaster"
 title = "Postmaster"
 author = "Matt"
-value = 20
+value = 25
 description = """Can you tell me what a [post](https://cyber-web-hacking-challenges.herokuapp.com/postmaster/) is used for?"""
 tags = ["Intro"]
 files = []
