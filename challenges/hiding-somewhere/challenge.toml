@@ -1,0 +1,16 @@
+slug = "hiding-somewhere"
+title = "Hiding Somewhere"
+author = "Henry"
+value = 30
+description = """I think I am missing a table. Do you think you can help me find it in the list?
+            [Shopping List](http://acmcyber.com:10002/sqli-3)
+            
+            [Start here!](https://reqbin.com/j2t5eah9)
+
+            Hint: information_schema
+            Hint2: make sure to wrap the flag in flag{}
+            """
+tags = ["SQLi"]
+files = []
+flag = "flag{flag_under_the_table}"
+enabled = true

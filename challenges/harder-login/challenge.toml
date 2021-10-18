@@ -1,0 +1,9 @@
+slug = "harder-login"
+title = "Harder Login"
+author = "Henry"
+value = 20
+description = """Click [here](https://reqbin.com/b8mksebv) and login for the secret flag! The previous person seems to have gotten better at blocking you though"""
+tags = ["SQLi"]
+files = []
+flag = "flag{we_are_not_equal}"
+enabled = true

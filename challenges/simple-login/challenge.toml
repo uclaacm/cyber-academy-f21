@@ -1,0 +1,9 @@
+slug = "simple-login"
+title = "Simple Login"
+author = "Henry"
+value = 10
+description = """Click [here](https://reqbin.com/ml8r1b2g) and login for the secret flag!"""
+tags = ["SQLi"]
+files = []
+flag = "flag{ouch!baby_dont_hurt_me_plz}"
+enabled = true

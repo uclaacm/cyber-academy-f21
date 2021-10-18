@@ -1,0 +1,16 @@
+slug = "who"
+title = "Who?"
+author = "Henry"
+value = 50
+description = """Uh Oh, someone bad registered as a user. Can you find who it is?
+            [Shopping List](http://acmcyber.com:10002/sqli-3)
+            
+            [Start here!](https://reqbin.com/j2t5eah9)
+
+            Hint: information_schema
+            Hint2: make sure to wrap the flag in flag{}
+            """
+tags = ["SQLi"]
+files = []
+flag = "flag{are_u_listening?}"
+enabled = true
