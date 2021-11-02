@@ -1,0 +1,9 @@
+slug = "somethings-phishy"
+title = "Something's Phishy"
+author = "Jerry"
+value = 10
+description = """Trivia: What is the name of the person who successfully phished Google and Facebook in 2019? Separate his first and last name with an underscore."""
+tags = ["CSRF"]
+files = []
+flag = "flag{Evaldas_Rimasauskas}"
+enabled = true

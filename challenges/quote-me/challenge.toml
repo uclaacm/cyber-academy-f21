@@ -1,0 +1,9 @@
+slug = "quote-me"
+title = "Quote Me"
+author = "Jerry"
+value = 15
+description = """Trivia: What was the code that Samy used to produce double quotes to bypass MySpace's filters for escaped quotes?"""
+tags = ["CSRF"]
+files = []
+flag = "flag{String.fromCharCode(34)}"
+enabled = true

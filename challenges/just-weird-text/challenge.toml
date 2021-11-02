@@ -1,0 +1,9 @@
+slug = "just-weird-text"
+title = "Just Weird Text"
+author = "Jerry"
+value = 10
+description = """Trivia: JWT is a type of token commonly used as a cookie. How do you decode the header and payload of one?"""
+tags = ["CSRF"]
+files = []
+flag = "flag{Base64Url}"
+enabled = true
