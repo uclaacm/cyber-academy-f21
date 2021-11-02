@@ -4,7 +4,9 @@ author = "Stephen"
 value = 15
 description = """Check out my new website! It's a new type of blog where anyone can make a post.
 
-I made a filter to prevent XSS, so anyone can safely make a post [here](http://blogpost1.acmcyber.com:10000). Send your blog post url to [me](http://acmcyber.com:10001)! I'd love to see it."""
+I made a filter to prevent XSS, so anyone can safely make a post [here](http://blogpost1.acmcyber.com:10000). Send your blog post url to [me](http://acmcyber.com:10001)! I'd love to see it.
+
+P.S. - the flag is in the cookies."""
 tags = ["xss"]
 files = []
 flag = "flag{attention_check_passed}"
