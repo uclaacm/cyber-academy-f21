@@ -4,7 +4,9 @@ author = "Stephen"
 value = 30
 description = """Alright, enough with the XSS. I don't even care about your blog posts anymore.
 
-Feel free to make a post [here](http://blogpost3.acmcyber.com:10000) and send the url to [me](http://acmcyber.com:10001). I'll take a look."""
+Feel free to make a post [here](http://blogpost3.acmcyber.com:10000) and send the url to [me](http://acmcyber.com:10001). I'll take a look.
+
+P.S. - the flag is in the cookies."""
 tags = ["xss"]
 files = []
 flag = "flag{alway&#115_another_way}"
