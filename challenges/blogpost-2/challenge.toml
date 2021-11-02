@@ -4,7 +4,9 @@ author = "Stephen"
 value = 20
 description = """OK, so it seems like some people's blogs were getting voided by the old filter, and other people still managed to get XSS, but it's fixed now.
 
-Make your post [here](http://blogpost2.acmcyber.com:10000) and send the url to [me](http://acmcyber.com:10001)! I'd love to see it."""
+Make your post [here](http://blogpost2.acmcyber.com:10000) and send the url to [me](http://acmcyber.com:10001)! I'd love to see it.
+
+P.S. - the flag is in the cookies."""
 tags = ["xss"]
 files = []
 flag = "flag{oops_bad_filfilterter}"
