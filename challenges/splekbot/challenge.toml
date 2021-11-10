@@ -1,0 +1,9 @@
+slug = "splekbot"
+title = "Splekbot"
+author = "Cyb-Stu"
+value = 35
+description = """Cheat engine is pretty dank I must say. Please enlighten us with proof that you've somehow manipulated [Splekbot](https://drive.google.com/drive/folders/14e_cIKsCs8KERDl2jQqpCZxgLxuKB0HW) to your advantage! If you're having issues playing the game or coming up with things to hack, feel free to reach out <3"""
+tags = ["Game"]
+files = []
+flag = "flag{sploinky_poinky_aaron_goatie}"
+enabled = true

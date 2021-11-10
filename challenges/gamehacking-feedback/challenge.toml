@@ -1,0 +1,9 @@
+slug = "game-feedback"
+title = "Game Hacking Feedback"
+author = "Cyb-Stu"
+value = 5
+description = "Please fill out the [feedback form](https://forms.gle/yJXhUnmDFxvrmaHy6)! We appreciate it :)"
+tags = ["Game"]
+files = []
+flag = "flag{aimbot_my_way_out_of_bronz3}"
+enabled = true
