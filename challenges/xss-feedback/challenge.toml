@@ -1,0 +1,9 @@
+slug = "XSS-feedback"
+title = "XSS/CSRF Feedback"
+author = "Henry"
+value = 5
+description = "Please fill out the [feedback form](https://forms.gle/2sfKNDeypGMGrRbq5)."
+tags = ["XSS"]
+files = []
+flag = "flag{difficultdifficultmidterms:<}"
+enabled = true
