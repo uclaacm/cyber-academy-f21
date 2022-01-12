@@ -54,3 +54,15 @@
 {"level":"info","ts":1636422647.8408747,"logger":"tls","msg":"finished cleaning storage units"}
 {"level":"info","ts":1636509047.8407788,"logger":"tls","msg":"cleaning storage unit","description":"FileStorage:/home/ubuntu/.local/share/caddy"}
 {"level":"info","ts":1636509047.84086,"logger":"tls","msg":"finished cleaning storage units"}
+{"level":"info","ts":1636595447.8407998,"logger":"tls","msg":"cleaning storage unit","description":"FileStorage:/home/ubuntu/.local/share/caddy"}
+{"level":"info","ts":1636595447.8408844,"logger":"tls","msg":"finished cleaning storage units"}
+{"level":"info","ts":1636681847.8741899,"logger":"tls","msg":"cleaning storage unit","description":"FileStorage:/home/ubuntu/.local/share/caddy"}
+{"level":"info","ts":1636681847.874272,"logger":"tls","msg":"finished cleaning storage units"}
+{"level":"info","ts":1636768247.9320257,"logger":"tls","msg":"cleaning storage unit","description":"FileStorage:/home/ubuntu/.local/share/caddy"}
+{"level":"info","ts":1636768247.9324667,"logger":"tls","msg":"finished cleaning storage units"}
+{"level":"info","ts":1636854647.840779,"logger":"tls","msg":"cleaning storage unit","description":"FileStorage:/home/ubuntu/.local/share/caddy"}
+{"level":"info","ts":1636854647.8408592,"logger":"tls","msg":"finished cleaning storage units"}
+{"level":"info","ts":1636936935.5184839,"msg":"shutting down apps, then terminating","signal":"SIGTERM"}
+{"level":"warn","ts":1636936935.5185256,"msg":"exiting; byeee!! 👋","signal":"SIGTERM"}
+{"level":"info","ts":1636936935.6142564,"logger":"tls.cache.maintenance","msg":"stopped background certificate maintenance","cache":"0xc0002fde30"}
+{"level":"info","ts":1636936935.6174066,"msg":"shutdown complete","signal":"SIGTERM","exit_code":0}
